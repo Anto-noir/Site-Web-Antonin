@@ -1,0 +1,61 @@
+body{
+	font-family: 'Overpass', sans-serif;
+	text-align: center;
+	background-repeat:no-repeat;
+	background-color: ;
+
+
+}
+
+head{
+ background-size: cover;
+ background-position: center;    
+}
+
+#fond{
+	background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0, 0.2)), url(https://nouvelles.umontreal.ca/fileadmin/_processed_/csm_20171116_programme-journalisme_69aec5723f.jpg);
+   background-size: cover;
+	padding: 300px 50px;
+
+
+
+}
+
+#Hello{
+	text-align: center;
+	text-shadow: 3px 3px 6px rgba(20, 150, 112, 1);
+	/*background-color: rgba(20, 150, 112, 0.61);*/
+	width: 250px;
+	margin: auto;
+	color:  white;
+	/*border-radius:  10px 20px;*/
+	background-color: rgba(60, 169, 117, 0.04);
+
+}
+
+#Hello:hover{
+	background-color: rgba(34, 242, 177, 0.71);
+   padding: 5px 10px;
+   transition: all 0.1s ease-out;
+   border-radius: 10px;
+}
+
+#blabla{
+	background-color: #559FAA;
+	padding: 30px;
+}
+
+
+
+h2{
+   background-color: rgba(34, 242, 177, 0.71);
+   width: 200px;
+   padding: 15px;
+   border-radius: 9px;
+   margin: auto;
+}
+
+#Reseaux-sociaux{
+	height: 50px;
+	font-size: 50px;
+}
